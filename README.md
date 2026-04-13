@@ -1,5 +1,44 @@
 ## Hi there 👋
+# I am Ozoekwe Chiziteremu Caleb
 
+## I am a Business Strategist & Presenter
+
+A Member of BUK Alpha Coders | Smart Finance App Team
+
+---
+
+## 💡 About Me
+I focus on turning ideas into impactful solutions by building strong product strategies and delivering clear presentations.
+
+---
+
+## 📱 Projects
+
+### 🟢 SMART Finance App (Hackathon Project – In Development)
+- Developed project idea and business strategy
+- Created pitch structure and presentation flow
+- Defined problem and solution clearly
+
+---
+
+## 🛠 Skills
+- Product Strategy
+- Public Speaking
+- Pitch Presentation
+- Business Thinking
+
+---
+
+## 👥 Team: BUK Alpha Coders
+- M.Salam – Frontend Developer
+- Saeed – Backend Developer
+- Aliyu – UI/UX Designer
+- Chizi – Presenter & Strategist
+
+---
+
+## 🎯 Goal
+To communicate ideas clearly and turn concepts into impactful real-world solutions.
 <!--
 **emeboalex-cmd/emeboalex-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
