@@ -53,3 +53,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+A few of my most recent works and partnership projects on web development:
+
+https://github.com/M-salamTech/buk-alpha-coders
+Basically a project for Dhillz Technology Nigeria Limited in securing a unique, profession website which's currently under revamping and I'll update 
+
+NOTE:
+• This is a current and ongoing project.
